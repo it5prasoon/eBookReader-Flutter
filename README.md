@@ -1,4 +1,4 @@
-# book
+# eBookReader
 
 A new Flutter project.
 
